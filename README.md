@@ -1,5 +1,9 @@
 # WhereIsIt - Client Side
 
+<div align="center">
+  <img src="https://i.ibb.co.com/5WXVk1Vb/Screenshot-5.png" height="400" width="800" alt="WhereIsIt"/>
+</div>
+
 ## Project Purpose
 
 WhereIsIt (Client Side) serves as the user interface for the Lost and Found platform. It allows users to interact with the application, report lost or found items, and manage their submissions. The client-side is designed to provide a seamless and responsive experience.
